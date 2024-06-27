@@ -1,6 +1,16 @@
 # Research Notes
 A repo to keep my research notes, links to papers, repos etc.
 
+## Polymer databases
+
+* https://polymerscholar.org/ (See https://www.nature.com/articles/s41524-023-01003-w)
+* https://www.chemnetbase.com/ (Many entries are shown as redacted)
+* Polyinfo: https://polymer.nims.go.jp/ 
+* MatWeb: https://www.matweb.com/
+* NIST Materials Registry: https://materials.registry.nist.gov/
+* Materials Project: https://next-gen.materialsproject.org/
+* Open Nomad: https://nomad-lab.eu/prod/v1/gui/search/entries
+
 ## Reasoning capabilities of LLMs
 
 This is where the current generation of LLMs fail the most. 
